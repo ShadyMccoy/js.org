@@ -2515,6 +2515,7 @@ var cnames_active = {
   "pivottable": "nicolaskruchten.github.io/pivottable",
   "pixelanimator": "grough.github.io/pixel-animator",
   "pixelart": "meriadec.github.io/PixelartJS", // noCF? (don´t add this in a new PR)
+  "pixelwars": "shadymccoy.github.io/pixelwars",
   "pixiv": "cname.vercel-dns.com", // noCF
   "pixpact": "legendsayantan.github.io/pixpact",
   "pizzle": "pizzlejs.github.io",
@@ -2844,6 +2845,7 @@ var cnames_active = {
   "rishi": "rishiosaur.github.io",
   "risingstars": "cname.vercel-dns.com", // noCF
   "risingstars2016": "michaelrambeau.github.io/risingstars2016",
+  "riskmath": "shadymccoy.github.io/RIskMath",
   "ritchie": "amukh1.github.io/Ritchie",
   "riyal": "pooyagolchian.github.io/riyal",
   "rize": "g-plane.github.io/rize",
